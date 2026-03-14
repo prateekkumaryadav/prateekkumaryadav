@@ -1,10 +1,10 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> My name is Prateek
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Prateek this side,
 
-## Full Stack Developer & Web Dev Enthusiast
+## Full Stack Development, DataBases, OS
 
 I am an M.Tech CSE student at the International Institute of Information Technology, Bangalore (IIIT-B), with a strong passion for building scalable and efficient web applications. I have a keen interest in Full Stack Development, DevOps, and Problem Solving.
 
-Currently, I am focused on building full-stack projects with DevOps integration, strengthening my fundamentals, and learning modern frameworks and automation tools through hands-on practice. I also have a strong interest in Problem Solving and Data Structures & Algorithms, which helps me sharpen my analytical and coding skills.
+<!-- Currently, I am focused on building full-stack projects with DevOps integration, strengthening my fundamentals, and learning modern frameworks and automation tools through hands-on practice. I also have a strong interest in Problem Solving and Data Structures & Algorithms, which helps me sharpen my analytical and coding skills. -->
 
 ---
 
@@ -13,7 +13,7 @@ Currently, I am focused on building full-stack projects with DevOps integration,
 - 🌍 I'm based in Vadodara, India  
 - ✉️ Contact: [prateek.yadav@iiitb.ac.in](mailto:prateek.yadav@iiitb.ac.in)  
 - 🧠 Currently learning: React, Spring Boot, DevOps  
-- 🚀 Working on: Full Stack Project with DevOps Integration  
+<!-- - 🚀 Working on: Full Stack Project with DevOps Integration -->  
 
 ---
 
